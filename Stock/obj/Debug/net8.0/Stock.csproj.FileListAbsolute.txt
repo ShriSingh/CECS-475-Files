@@ -1,0 +1,14 @@
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\Stock.AssemblyInfoInputs.cache
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\Stock.AssemblyInfo.cs
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Shriyansh Singh\source\repos\Stock\bin\Debug\net8.0\Stock.exe
+C:\Users\Shriyansh Singh\source\repos\Stock\bin\Debug\net8.0\Stock.deps.json
+C:\Users\Shriyansh Singh\source\repos\Stock\bin\Debug\net8.0\Stock.runtimeconfig.json
+C:\Users\Shriyansh Singh\source\repos\Stock\bin\Debug\net8.0\Stock.dll
+C:\Users\Shriyansh Singh\source\repos\Stock\bin\Debug\net8.0\Stock.pdb
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\Stock.dll
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\refint\Stock.dll
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\Stock.pdb
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\Stock.genruntimeconfig.cache
+C:\Users\Shriyansh Singh\source\repos\Stock\obj\Debug\net8.0\ref\Stock.dll
