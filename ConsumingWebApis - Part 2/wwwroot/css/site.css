@@ -1,0 +1,39 @@
+/* New Addition */
+.input-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.input-container label {
+    margin: 0 5px 0 0;
+}
+
+.input-container input {
+    padding: 5px;
+    font-size: 1em;
+}
+
+.input-container button {
+    padding: 5px 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+#holidays-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#holidays-table th, #holidays-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#holidays-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
